@@ -1,0 +1,32 @@
+{
+  "name": "payment-icons",
+  "version": "1.0.0",
+  "description": "Graphical assets and webfonts for credit cards and payment icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okatsuralau/payment-icons.git"
+  },
+  "keywords": [
+    "payment",
+    "icons",
+    "web",
+    "fonts",
+    "credit",
+    "cards",
+    "svg",
+    "png",
+    "sprites",
+    "sketch",
+    "templates"
+  ],
+  "author": "https://github.com/gregoiresgt/payment-icons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okatsuralau/payment-icons/issues"
+  },
+  "homepage": "https://github.com/okatsuralau/payment-icons#readme"
+}
